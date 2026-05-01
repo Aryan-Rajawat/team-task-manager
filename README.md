@@ -4,7 +4,7 @@ A full-stack web application for team project management with role-based access 
 
 **🌐 Live Demo:** [https://team-task-manager-production-3301.up.railway.app](https://team-task-manager-production-3301.up.railway.app)
 
-![App Preview](https://via.placeholder.com/800x400.png?text=TeamFlow+Task+Manager)
+![App Preview](./preview.png)
 
 ## ✨ Features
 - **🔐 Secure Authentication:** JWT-based user Signup/Login.
