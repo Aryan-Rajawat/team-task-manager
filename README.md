@@ -66,5 +66,11 @@ A full-stack web application for team project management with role-based access 
 - `/server`: Node.js backend logic (API routes, database connection, middleware, schema).
 - `/public`: Frontend assets (HTML shell, CSS design system, and Vanilla JS SPA routing logic).
 
+## 👨‍💻 Author
+**Aryan Singh**  
+- **College:** Pranveer Singh Institute of Technology  
+- **Branch:** Computer Science and Engineering (Cyber Security)  
+- **Roll Number:** 2201641720029  
+
 ## 📄 License
 This project is licensed under the MIT License.
